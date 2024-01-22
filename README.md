@@ -1,4 +1,4 @@
-###             CPE311_Computational-Thinking-with-Python
+<h3 align ="center">CPE311_Computational-Thinking-with-Python</h3>
 <h1 align="center">Hi 👋, I'm Jhillian M. Cabos</h1>
 <h3 align="center">I'm a 2nd yr CpE student taking Data Science</h3>
 
