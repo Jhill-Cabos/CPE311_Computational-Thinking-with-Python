@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jhillian M. Cabos</h1>
 <h3 align="center">I'm a 2nd yr CpE student taking Data Science</h3>
 
-<div class="center">
-  <p>I like indie games and visual novels 🎮</p>
-  <p>I play the guitar, draw and listen to music or podcasts 🎼🎵🎶</p>
-  <p>I'm also 19 yearsold!!</p>
-</div>
+
+<h1 align="center">I like indie games and visual novels 🎮</h1>
+<h1 align="center">I play the guitar, draw and listen to music or podcasts 🎼🎵🎶</h1>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
