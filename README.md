@@ -1,4 +1,6 @@
 <h3 align ="center">CPE311_Computational-Thinking-with-Python</h3>
+<p align= "center">![picture](https://github.com/Jhill-Cabos/CPE311_Computational-Thinking-with-Python/assets/123426500/fb3eb8c9-071a-449a-99cd-9e5982c0a958)
+
 <h1 align="center">Hi 👋, I'm Jhillian M. Cabos</h1>
 <h3 align="center">I'm a 2nd yr CpE student taking Data Science</h3>
 
