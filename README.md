@@ -4,8 +4,8 @@
 <h3 align="center">I'm a 2nd yr CpE student taking Data Science</h3>
 
 
-<h4 align="center">I like indie games and visual novels 🎮</h4>
-<h4 align="center">I play the guitar, draw and listen to music or podcasts 🎼🎵🎶</h4>
+<h4 align="left">I like indie games and visual novels 🎮</h4>
+<h4 align="left">I play the guitar, draw and listen to music or podcasts 🎼🎵🎶</h4>
 
 
 <h3 align="center">Connect with me:</h3>
