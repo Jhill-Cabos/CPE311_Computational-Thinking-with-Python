@@ -1,8 +1,13 @@
 <h3 align ="center">CPE311_Computational-Thinking-with-Python</h3>
-![picture](https://github.com/Jhill-Cabos/CPE311_Computational-Thinking-with-Python/assets/123426500/2563b53d-3cca-4525-8629-76f0cefc2563)
 
 <h1 align="center">Hi 👋, I'm Jhillian M. Cabos</h1>
 <h3 align="center">I'm a 2nd yr CpE student taking Data Science</h3>
+
+<div class="center">
+  <p>I like indie games and visual novels 🎮</p>
+  <p>I play the guitar, draw and listen to music or podcasts 🎼🎵🎶</p>
+  <p>I'm also 19 yearsold!!</p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
